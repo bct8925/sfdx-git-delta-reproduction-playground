@@ -2,5 +2,8 @@
   "name": "sfdx-git-delta-reproduction-playground",
   "private": true,
   "version": "1.0.0",
-  "description": "SGD Reproduction Playground"
+  "description": "SGD Reproduction Playground",
+  "devDependencies": {
+    "sfdx-git-delta": "^5.40.0"
+  }
 }
